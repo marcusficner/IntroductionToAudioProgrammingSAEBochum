@@ -11,6 +11,7 @@ and three Max patches to show how audio plug-ins can be prototyped.
 I've also used Desmos to talk about wave shaping:
 
 https://www.desmos.com/calculator/gqhrcckggh
+
 https://www.desmos.com/calculator/nsahesbnrm
 
 A video of the talk might be available in the future.
